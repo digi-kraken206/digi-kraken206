@@ -6,7 +6,7 @@ I'm a **Senior Software Engineer** with over **9 years of experience** building 
 
 ## 💼 What I Do
 
-- 🔧 Full-stack development with **Python**, **Ruby on Rails**, **C#/.NET**, **React**, **Vue**, and **Node.js**
+- 🔧 Full-stack development with **Python**, **Ruby on Rails**, **C#/.NET**, **React**, **Vue**, **Next.js** and **Node.js**
 - ☁️ Cloud-native architecture with **AWS**, **Docker**, **CI/CD**, and **DevOps automation**
 - 🔍 Site reliability, performance optimization, and production monitoring (DataDog, Sentry)
 - 🧪 Clean, maintainable, and well-tested codebases with **TDD**, **RSpec**, **Jest**
