@@ -59,7 +59,6 @@ Recently, I’ve been focused on **Generative AI (GenAI)**, building intelligent
 ![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat&logo=sentry&logoColor=white)
 
 ### 🧠 Generative AI & LLM Integration
-![OpenAPI](https://img.shields.io/badge/-OpenAPI-6BA539?style=flat)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-%2300B4D8?style=flat&logo=openai&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=python&logoColor=white)
