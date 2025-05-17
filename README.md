@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Harry Wang
 
-I'm a **Senior Software Engineer** with over **9 years of experience** building scalable, secure, and high-performance full-stack applications across **healthcare, fintech, and eCommerce** sectors.
+I'm a **Senior Full-Stack Software Engineer** with 9+ years of experience building scalable, secure, and cloud-native applications across **healthtech, fintech, and eCommerce** sectors. I specialize in **Ruby on Rails**, **JavaScript/TypeScript**, **React**, **Vue**, and **Node.js**, with strong DevOps skills in **Docker**, **AWS**, and **CI/CD pipelines**.
+
+Recently, I’ve been focused on **Generative AI (GenAI)**, building intelligent systems powered by **OpenAI**, **LangChain**, and **Hugging Face** — from prototypes to production-ready tools. I enjoy translating complex ideas into working systems, mentoring engineers, and driving technical excellence through clean architecture and TDD.
 
 ---
 
@@ -56,7 +58,7 @@ I'm a **Senior Software Engineer** with over **9 years of experience** building 
 ![DataDog](https://img.shields.io/badge/-Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 ![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat&logo=sentry&logoColor=white)
 
-### 🧠 Testing & Practices
+### 🧠 Generative AI & LLM Integration
 ![OpenAPI](https://img.shields.io/badge/-OpenAPI-6BA539?style=flat)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-%2300B4D8?style=flat&logo=openai&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
