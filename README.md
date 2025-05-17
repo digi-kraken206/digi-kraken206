@@ -56,14 +56,19 @@ I'm a **Senior Software Engineer** with over **9 years of experience** building 
 ![DataDog](https://img.shields.io/badge/-Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 ![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat&logo=sentry&logoColor=white)
 
+### 🧠 Testing & Practices
+![OpenAPI](https://img.shields.io/badge/-OpenAPI-6BA539?style=flat)
+![Generative AI](https://img.shields.io/badge/Generative_AI-%2300B4D8?style=flat&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+
 ### 🧪 Testing & Practices
 ![RSpec](https://img.shields.io/badge/-RSpec-CC342D?style=flat&logo=ruby&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![TDD](https://img.shields.io/badge/-TDD-4CAF50?style=flat)
 ![DDD](https://img.shields.io/badge/-DDD-2196F3?style=flat)
-![OpenAPI](https://img.shields.io/badge/-OpenAPI-6BA539?style=flat)
-
 
 ---
 
