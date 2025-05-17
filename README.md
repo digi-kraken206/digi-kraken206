@@ -74,22 +74,4 @@ Recently, I’ve been focused on **Generative AI (GenAI)**, building intelligent
 
 ---
 
-## 📌 Featured Projects
-
-- **OpenCareSync** – Personal health record system built with Rails & React  
-- **PriceSync** – Real-time price tracker across eCommerce platforms  
-- **DevLogBoard** – Engineering activity dashboard for GitHub teams
-
-👉 Check out my pinned repos for more!
-
----
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Portfolio / Blog](https://your-portfolio.com)
-- [Email](mailto:your.email@example.com)
-
----
-
 _“Clean code, clear purpose, continuous improvement.”_
